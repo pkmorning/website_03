@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Sustainable Animal Nutrition and Physiology</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Prabhat Khanal</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the anti-microbial properties of brown seaweeds</title>
+      <link>/project/project_4/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/project_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From by-products to novel protein - Bio-resource recycling using insect larvae</title>
+      <link>/project/project_3/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/project_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Norwegian seaweeds – an alternative and environment-friendly feeding resource for livestock</title>
+      <link>/project/project_2/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/project/project_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the role of marine seaweeds as an alternative feed source for land-based farm animals</title>
+      <link>/project/project_1/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/project/project_1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
