@@ -38,7 +38,7 @@ social:
 # link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/prabhatkhanal/
 superuser: true
 title: Prabhat Khanal, PhD
 user_groups:
