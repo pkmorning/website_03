@@ -45,5 +45,5 @@ user_groups:
 - Principal Investigator
 ---
 
-Prabhat Khanal is an associate professor of animal nutrition at Nord University, Norway (https://www.nord.no/no/ansatte/prabhat-khanal). His research interests include 1) Animal Nutrition and Physiology, 2) Foetal Programming, 3) Alternative Nutritional Strategies, and 4) Environmental Health. He leads the NutritionLab at Nord University, Steinkjer Campus, Norway.
+Prabhat Khanal is an associate professor of animal nutrition at Nord University, Norway. His research interests include 1) Animal Nutrition and Physiology, 2) Fetal Programming, 3) Alternative Nutritional Strategies, and 4) Environmental Health. He is currently leading a number of research projects related to sustainable animal nutrition and alternative nutritional strategies.
 
