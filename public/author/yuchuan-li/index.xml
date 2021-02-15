@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuchuan Li | Sustainable Animal Nutrition</title>
+    <link>/author/yuchuan-li/</link>
+      <atom:link href="/author/yuchuan-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuchuan Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Prabhat Khanal</copyright><lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Yuchuan Li</title>
+      <link>/author/yuchuan-li/</link>
+    </image>
+    
+    <item>
+      <title>Nutritional and anti-methanogenic potentials of macroalgae for ruminants</title>
+      <link>/publication/article_21/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/article_21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isolated Plin5-deficient cardiomyocytes store less lipid droplets than normal, but without increased sensitivity to hypoxia</title>
+      <link>/publication/article_19/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/article_19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
